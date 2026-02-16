@@ -1,8 +1,11 @@
 # Shannon Lee
 
-Shannon Lee                                                        2877 Helen St
-shannon@scatter.com                                                  Oakland, CA
-(503) 539-3700                                                             94608  
+## Contact
+--------------------------------------------------------------------------------
+shannon@lee.org  
+2877 Helen St  
+Oakland, CA 94608  
+(503) 539-3700  
 
 ## Infrastructure Leadership
 --------------------------------------------------------------------------------
@@ -10,10 +13,10 @@ shannon@scatter.com                                                  Oakland, CA
   - **Infrastructure professional** with extensive experience leading TechOps, 
     DevOps, and Software teams in fast-paced startup environments.
 
-  - ** Systems Architect** with deep understanding of distributed systems as 
+  - **Systems Architect** with deep understanding of distributed systems as 
     well as traditional datacenter or cloud server-based architectures.
 
-  - ** Big Data operations** and engineering manager and contributor with 
+  - **Big Data operations** and engineering manager and contributor with 
     experience in very large data sets and real-time data processing.
 
 
