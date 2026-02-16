@@ -1,14 +1,13 @@
 # Shannon Lee
 
 ## Contact
---------------------------------------------------------------------------------
+
 shannon@lee.org  
 2877 Helen St  
 Oakland, CA 94608  
 (503) 539-3700  
 
 ## Infrastructure Leadership
---------------------------------------------------------------------------------
 
   - **Infrastructure professional** with extensive experience leading TechOps, 
     DevOps, and Software teams in fast-paced startup environments.
@@ -21,7 +20,7 @@ Oakland, CA 94608
 
 
 ## Professional Experience
---------------------------------------------------------------------------------
+
 ### Blockstream Inc                                                
 
   - Director Devops                                                  2017 - 2025
@@ -171,7 +170,6 @@ Oakland, CA 94608
     - Sold books and fixed computers. Learned AIX by accident.
 
 ## Affiliations
---------------------------------------------------------------------------------
 
 ### Noisebridge                                               
 
@@ -188,7 +186,6 @@ Oakland, CA 94608
     - Played an instrumental role in the original buildout of both spaces.
 
 ## Skills
---------------------------------------------------------------------------------
 
   - System Administration     - UN*X                    - Bash / sh
   - DevOps                    - Chef/Puppet/Cfengine    - Perl
